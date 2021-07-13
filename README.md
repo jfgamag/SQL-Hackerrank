@@ -1,2 +1,2 @@
 # SQL-Hackerrank
-Solution to Hackerrank
+Solution to Hackerrank exercises
